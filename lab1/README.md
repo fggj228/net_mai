@@ -2,7 +2,9 @@
 ## Задание 1
 
 Схема сети:
-![1](scheme.jpg)  ИСПРАВЬ СЕТИ
+
+![1](scheme.jpg)
+
 Сети: 
 - 192.168.0.0
 - 192.168.1.0
@@ -53,10 +55,15 @@ Broadcast: 192.168.0.15
 ## Задание 3
 
 ### office1Server
+
 ![2](server1.png)
+
 ### office2Server
+
 ![3](server2.png)
+
 ### centralServer
+
 ![4](central.png)
 
 ## Задание 4
